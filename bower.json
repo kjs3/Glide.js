@@ -1,0 +1,10 @@
+{
+  "name": "glidejs",
+  "version": "1.0.6",
+  "main": "dist/jquery.glide.js",
+  "keywords": [
+    "glide",
+    "glidejs",
+    "glide.js"
+  ]
+}
